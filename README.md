@@ -1,7 +1,7 @@
 # voice assistance
 - befor running this application you have to download some jar files 
 - here is the link for it
-- 
+
 https://sourceforge.net/projects/freetts/files/
 
 ![po1](https://user-images.githubusercontent.com/99815954/161436871-8dec40a5-a10a-4d9e-8bb5-54384b19ab37.png)
